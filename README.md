@@ -1,4 +1,4 @@
-![Screenshot]
+![Screenshot](https://github.com/MuhammadNurAshiddiqi/Evaluate-an-Expression/blob/master/SS-expression.png)
 
 
 # TugasPetruk
