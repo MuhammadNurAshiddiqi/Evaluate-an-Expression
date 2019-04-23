@@ -1,4 +1,7 @@
-TugasPetruk
+![Screenshot]
+
+
+# TugasPetruk
 
 Pemrograman Terstruktur 2018-2019
 
